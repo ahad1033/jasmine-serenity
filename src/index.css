@@ -1,0 +1,9 @@
+:root {
+    --main-color: "#f56981";
+    --secondary-color: #1f2732;
+  }
+
+  .custom-bg-secondary {
+    background-color: var(--secondary-color);
+  }
+  
