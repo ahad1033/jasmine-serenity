@@ -1,5 +1,4 @@
 import React from 'react';
-// import './NavBar.css';
 
 const NavBar = () => {
     return (
@@ -27,7 +26,6 @@ const NavBar = () => {
                             <a className="nav-link active" aria-current="page" href="#">Blogs</a>
                         </li>
                     </ul>
-                    <div><h1 className='cutom-text-primary'>hello</h1></div>
                     <div className="d-flex">
                         <button className="btn btn-outline-success" type="submit">Book Now</button>
                     </div>
