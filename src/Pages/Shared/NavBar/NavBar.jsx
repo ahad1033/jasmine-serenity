@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const NavBar = () => {
     return (
@@ -11,19 +12,19 @@ const NavBar = () => {
                     <a className="navbar-brand text-white fw-bold" href="#">Jasmine Serenity</a>
                     <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link active text-white fw-medium" aria-current="page" href="#">Home</a>
+                            <Link to='/' className="nav-link active text-white fw-medium">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active text-white fw-medium" aria-current="page" href="#">Services</a>
+                            <Link to='/services' className="nav-link active text-white fw-medium">Services</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active text-white fw-medium" aria-current="page" href="#">About Us</a>
+                            <Link to='/' className="nav-link active text-white fw-medium">About Us</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active text-white fw-medium" aria-current="page" href="#">Contact Us</a>
+                            <Link to='/' className="nav-link active text-white fw-medium">Contact Us</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active text-white fw-medium" aria-current="page" href="#">Blogs</a>
+                            <Link to='/' className="nav-link active text-white fw-medium">Blogs</Link>
                         </li>
                     </ul>
                     <div className="d-flex">
