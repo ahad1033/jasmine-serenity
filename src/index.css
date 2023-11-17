@@ -1,6 +1,7 @@
 :root {
     --main-color: #f56981;
     --secondary-color: #1f2732;
+    --bg-color: #fdf7fa,
   }
 
   .custom-bg-primary {
@@ -8,5 +9,11 @@
   }
   .custom-bg-secondary {
     background-color: var(--secondary-color);
+  }
+  .custom-bg-section {
+    background-color: var(--bg-color);
+  }
+  .custom-text-primary {
+    color: var(--main-color);
   }
   
