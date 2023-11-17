@@ -8,7 +8,7 @@ import { LuPhoneCall } from "react-icons/lu";
 
 const Footer = () => {
     return (
-        <footer className="custom-bg-secondary text-white p-4 mt-4">
+        <footer className="custom-bg-secondary text-white p-4">
             <div className="container text-sm-center">
                 <div className="row">
                     <div className="col-lg-4 col-md-6 mb-4 mb-lg-0 px-5">

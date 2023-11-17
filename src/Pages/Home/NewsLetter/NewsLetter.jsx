@@ -8,7 +8,7 @@ import { FaWhatsapp } from "react-icons/fa";
 const NewsLetter = () => {
     return (
         <div className='text-center text-white mx-auto justify-content-center' style={{ backgroundImage: `url('https://images.pexels.com/photos/5240677/pexels-photo-5240677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center', width: '100%' }}>
-            <div className='custom-bg-primary py-5 my-4' style={{ backgroundColor: 'rgba(245, 105, 129, 0.35)' }}>
+            <div className='custom-bg-primary py-5' style={{ backgroundColor: 'rgba(245, 105, 129, 0.35)' }}>
                 <h5 className='fs-6 fw-light'>Subscribe</h5>
                 <h1 className='text-uppercase fw-bold'>Newsletter</h1>
                 <h5 className='mt-4 fw-light'>Subscribe our newsletter to be updated</h5>

@@ -5,7 +5,7 @@ import Footer from '../Pages/Shared/Footer/Footer';
 
 const Main = () => {
     return (
-        <div className='container-xl'>
+        <div>
             <NavBar />
             <Outlet />
             <Footer />
