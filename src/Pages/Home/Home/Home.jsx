@@ -1,4 +1,3 @@
-import React from 'react';
 import Banner from '../Banner/Banner';
 import NewsLetter from '../NewsLetter/NewsLetter';
 import OurTeam from '../OurTeam/OurTeam';

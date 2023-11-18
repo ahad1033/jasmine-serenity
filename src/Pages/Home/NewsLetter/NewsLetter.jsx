@@ -1,4 +1,3 @@
-import React from 'react';
 import { LuMail } from "react-icons/lu";
 import { BsSendFill } from "react-icons/bs";
 import { CiFacebook, CiTwitter, CiInstagram, CiYoutube } from "react-icons/ci";

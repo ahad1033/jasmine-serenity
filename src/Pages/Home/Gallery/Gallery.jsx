@@ -1,4 +1,3 @@
-import React from 'react';
 import gallery1 from '../../../assets/gallery/image1.jpg';
 import gallery2 from '../../../assets/gallery/image2.jpg';
 import gallery3 from '../../../assets/gallery/image3.jpg';
@@ -11,7 +10,7 @@ const Gallery = () => {
     return (
         <div className='my-5 mx-auto'>
             <SectionTitle heading="Jasmine's Gallery" />
-            <div className='px-5 mx-auto mt-4'>
+            <div className='px-5 mt-4 d-flex flex-wrap justify-content-center'>
                 <img src={gallery1} className="img-fluid" alt="image"></img>
                 <img src={gallery2} className="img-fluid" alt="image"></img>
                 <img src={gallery3} className="img-fluid" alt="image"></img>
