@@ -28,7 +28,7 @@ const NavBar = () => {
                         </li>
                     </ul>
                     <div className="d-flex">
-                        <button className="btn btn-outline-success text-white" type="submit">Book Now</button>
+                        <button className="btn bg-white custom-text-primary fw-medium " type="submit">Book Now</button>
                     </div>
                 </div>
             </div>

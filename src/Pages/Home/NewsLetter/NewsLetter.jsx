@@ -13,10 +13,10 @@ const NewsLetter = () => {
                 <h1 className='text-uppercase fw-bold'>Newsletter</h1>
                 <h5 className='mt-4 fw-light'>Subscribe our newsletter to be updated</h5>
                 <div className='mt-3'>
-                    <div class="input-group input-group-lg w-50 mx-auto focus-ring-success">
-                        <div class="input-group-text"><LuMail /></div>
+                    <div className="input-group input-group-lg w-50 mx-auto focus-ring-success">
+                        <div className="input-group-text"><LuMail /></div>
                         <input type="text" className="form-control" id="autoSizingInputGroup" placeholder="enter your email" />
-                        <div type='button' class="input-group-text custom-bg-primary text-white" aria-label="Close"><BsSendFill /></div>
+                        <div type='button' className="input-group-text custom-bg-primary text-white" aria-label="Close"><BsSendFill /></div>
                     </div>
                 </div>
                 <div className='fs-1 mt-4'>

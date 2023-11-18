@@ -9,15 +9,15 @@ import SectionTitle from '../../../Component/SectionTitle/SectionTitle';
 
 const Gallery = () => {
     return (
-        <div className='my-5'>
+        <div className='my-5 mx-auto'>
             <SectionTitle heading="Jasmine's Gallery" />
             <div className='px-5 mx-auto mt-4'>
-                <img src={gallery1} class="img-fluid" alt="image"></img>
-                <img src={gallery2} class="img-fluid" alt="image"></img>
-                <img src={gallery3} class="img-fluid" alt="image"></img>
-                <img src={gallery4} class="img-fluid" alt="image"></img>
-                <img src={gallery5} class="img-fluid" alt="image"></img>
-                <img src={gallery6} class="img-fluid" alt="image"></img>
+                <img src={gallery1} className="img-fluid" alt="image"></img>
+                <img src={gallery2} className="img-fluid" alt="image"></img>
+                <img src={gallery3} className="img-fluid" alt="image"></img>
+                <img src={gallery4} className="img-fluid" alt="image"></img>
+                <img src={gallery5} className="img-fluid" alt="image"></img>
+                <img src={gallery6} className="img-fluid" alt="image"></img>
             </div>
         </div>
     );
