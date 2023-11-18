@@ -1,9 +1,10 @@
+import ServiceBanner from "../ServiceBanner/ServiceBanner";
 
 
 const Services = () => {
     return (
         <div>
-            <h1>services are here</h1>
+            <ServiceBanner />
         </div>
     );
 };
