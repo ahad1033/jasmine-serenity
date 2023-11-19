@@ -14,7 +14,6 @@ Follow the steps below to run the project on your local machine:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/ahad1033/jasmine-serenity.git
 cd jasmine-serenity
 
@@ -22,7 +21,7 @@ cd jasmine-serenity
  
 npm install
 
-## Run The Project
+## Run The Project (your demo link)
 
 npm run dev
 
