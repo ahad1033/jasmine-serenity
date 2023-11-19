@@ -1,38 +1,38 @@
     [
         {
             "id": 1,
-            "services": "Cosmetics, Hairdressing",
+            "services": "Cosmetics",
             "details": "Our's is a premium salon offering expert cosmetic services. Our skilled stylists and beauty experts are here to enhance your natural beauty.",
-            "img": ""
+            "img": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-4004470/"
         },
         {
             "id": 2,
             "services": "Barber",
             "details": "Modern barber shop specializing in hairdressing for all styles. Whether you're looking for a classic cut or a trendy style, our barbers have got you covered.",
-            "img": ""
+            "img": "https://www.pexels.com/photo/woman-getting-a-haircut-3993443/"
         },
         {
             "id": 3,
             "services": "Massage",
             "details": "Relaxation haven with professional massage and rejuvenating body treatments. Indulge in a tranquil experience that revitalizes both your body and mind.",
-            "img": ""
+            "img": "https://images.pexels.com/photos/9336024/pexels-photo-9336024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
             "id": 4,
             "services": "Aromatherapy",
             "details": "Aromatherapy-infused salon providing services for a holistic experience. Immerse yourself in the soothing scents of essential oils while enhancing your beauty.",
-            "img": ""
+            "img": "https://images.pexels.com/photos/3822631/pexels-photo-3822631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
             "id": 5,
             "services": "Hairdressing",
             "details": "Trendsetting hairdressing and classic barber services under one roof. Our stylists and barbers collaborate to bring you the latest trends and timeless styles.",
-            "img": ""
+            "img": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
             "id": 6,
             "services": "Body Treatment",
             "details": "Escape to a serene oasis with expert body treatment. Let our skilled therapists pamper you with relaxation and tranquility.",
-            "img": ""
+            "img": "https://images.pexels.com/photos/7772653/pexels-photo-7772653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }
     ]
